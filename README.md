@@ -47,7 +47,7 @@ To run the notebook, you need the following dependencies:
 
 ## Data
 
-P&L data is imported, with each column a cost or revenue and each row a period in time.
+P&L data is imported, with each column a cost or revenue and each row a period in time. THIS IS DUMMY DATA.
 
 ## Methodology
 
@@ -56,6 +56,8 @@ The notebook employs a Gaussian distribution to model the uncertainty in P&L dat
 ## Results
 
 The project generates informative visualizations and statistical summaries to provide insights into the NPV uncertainty. You will find visual representations of the NPV distribution, including mean, standard deviation, and percentiles.
+
+Here some of the simulations of variables:
 ![Picture 1](https://github.com/ThomasTruyts/NPV_simulation_visualization/assets/104683599/8818f708-7d72-483b-90d7-87e99eec0d18)
 ![Picture 2](https://github.com/ThomasTruyts/NPV_simulation_visualization/assets/104683599/b8e81c3f-1c5f-4c45-bb3c-f12fcd63396c)
 ![Picture 3](https://github.com/ThomasTruyts/NPV_simulation_visualization/assets/104683599/c98c0003-77e2-4816-9e3b-a72af867cd4e)
