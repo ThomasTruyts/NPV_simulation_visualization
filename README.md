@@ -39,10 +39,12 @@ To use this project, follow these steps:
 
 To run the notebook, you need the following dependencies:
 
-- NumPy
-- SciPy
+- NumPy (financial)
+- SciPy.stats
 - Matplotlib
+- Seaborn
 - Pandas
+- Math
 
 ## Data
 
