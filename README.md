@@ -56,7 +56,7 @@ The notebook employs a Gaussian distribution to model the uncertainty in P&L dat
 ## Results
 
 The project generates informative visualizations and statistical summaries to provide insights into the NPV uncertainty. You will find visual representations of the NPV distribution, including mean, standard deviation, and percentiles.
-![Alt Text](Picture 1.jpg)
+![Variable simulation](Picture 1.jpg)
 
 ## Sensitivity Analysis
 
