@@ -14,7 +14,6 @@ This repository contains a Jupyter Notebook that performs a detailed analysis of
 - [Methodology](#methodology)
 - [Results](#results)
 - [Sensitivity Analysis](#sensitivity-analysis)
-- [Contributing](#contributing)
 
 ## Introduction
 
@@ -82,7 +81,3 @@ The sensitivity analysis section of the notebook evaluates the sensitivity of NP
 
 #### The following is a tornado chart, showing the impact of each variable:
 ![sens](https://github.com/ThomasTruyts/NPV_simulation_visualization/assets/104683599/7d9db5e9-4297-4d26-ba5b-23688d7ec043)
-
-## Contributing
-
-Contributions to this project are welcome. If you have any suggestions or improvements, please feel free to open an issue or submit a pull request.
